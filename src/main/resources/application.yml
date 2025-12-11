@@ -1,0 +1,8 @@
+okta:
+  oauth2:
+    issuer: https://{yourDomain}/
+    client-id: {yourClientId}
+    client-secret: {yourClientSecret}
+
+server:
+  port: 3000
